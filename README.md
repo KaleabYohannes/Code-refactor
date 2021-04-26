@@ -7,7 +7,7 @@ HTML CSS Git Challenge: Code Refactor
 The assignment is to refactor* an existing code.
 *Refactor - "Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior" (refactoring.com)
 
-
+![01-html-css-git-homework-demo (1)](https://user-images.githubusercontent.com/78894673/116030710-0d233c80-a611-11eb-9fe1-3e21dd5b8deb.png)
 
 Alterations made in HTML
 
